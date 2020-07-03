@@ -1,0 +1,4 @@
+Jay Sueno's Analysis:
+
+1. The best performing school were charter type. They also had a lower amount of students in the 1000-2000 range. The worst performing schools were district types and had populations in the 2000-4500 range.
+2. School that had the best Overall % Passing of Math and Reading actually had a budget that spent less per student. The more a school spent per student the worse the Overall Passing.
